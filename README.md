@@ -10,7 +10,7 @@ The Workout Planner app is a versatile tool designed to help users organize and 
 - **Track Progress**: Monitor your performance and achievements by tracking completed workouts and progress over time.
 - **User-Friendly Interface**: Intuitive design makes it easy for users of all levels to navigate and utilize the app efficiently.
 
-![Screenshot_20240512_214050](https://github.com/Chathumina12/FitnessApp/assets/142786337/8716fd85-ff25-4160-9370-16535cf2e448)
-![Screenshot_20240512_225753](https://github.com/Chathumina12/FitnessApp/assets/142786337/ff0a83f4-3f84-45c7-ba28-b12b01a18fad)
-![Screenshot_20240512_213756](https://github.com/Chathumina12/FitnessApp/assets/142786337/e337b5f6-dfd2-4948-8dbd-e1b18b996951)
-![Screenshot_20240512_213849](https://github.com/Chathumina12/FitnessApp/assets/142786337/584ab80c-91e6-4b5f-b056-c7a75d15337a)
+<img src="https://github.com/Chathumina12/FitnessApp/assets/142786337/8716fd85-ff25-4160-9370-16535cf2e448" width="300">
+<img src="https://github.com/Chathumina12/FitnessApp/assets/142786337/ff0a83f4-3f84-45c7-ba28-b12b01a18fad" width="300">
+<img src="https://github.com/Chathumina12/FitnessApp/assets/142786337/e337b5f6-dfd2-4948-8dbd-e1b18b996951" width="300">
+<img src="https://github.com/Chathumina12/FitnessApp/assets/142786337/584ab80c-91e6-4b5f-b056-c7a75d15337a" width="300">
